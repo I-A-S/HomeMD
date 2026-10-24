@@ -1,3 +1,2 @@
 - [ ] prmtop parser
-- [ ] mmCIF parser
- 
+- [ ] inpcrd parser

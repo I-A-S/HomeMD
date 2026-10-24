@@ -1,6 +1,6 @@
 # HomeMD
 
-HomeMD is a molecular dynamics simulator.
+HomeMD is a molecular dynamics simulator with a focus on SBDD;
 
 ## License
 
