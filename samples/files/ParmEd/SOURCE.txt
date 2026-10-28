@@ -1,0 +1,30 @@
+The files in this directory were copied unmodified from ParmEd
+(https://github.com/ParmEd/ParmEd), test/files/, at commit e983c0674b79618c10505a1db29c12374e10bdd2.
+
+Copyright (C) 2010-2014 Jason Swails and ParmEd contributors.
+Licensed under the GNU Lesser General Public License v2.1; see LICENSE
+in this directory.
+
+License text from original repository README.md:
+```
+                    LESSER GPL LICENSE INFO
+
+Copyright (C) 2010 - 2014 Jason Swails
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330,
+Boston, MA 02111-1307, USA.
+
+The `fortranformat` package is released under the MIT license, Copyright (C)
+Brendan Arnold. See `fortranformat/__init__.py` for more information.
+```
